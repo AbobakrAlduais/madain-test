@@ -25,6 +25,11 @@
                 <div ng-show="errorMessage" class="alert alert-warning">
                     {{errorMessage}}
                 </div>
+                <!-- Add UserName Field -->
+                <div class="form-group">
+                        <label for="username">UserName</label>
+                        <input type="password" class="form-control" id="username" ng-model="username" placeholder="username" required>
+                </div>
                 <div class="form-group">
                     <label for="email">Email address</label>
                     <!-- chang the type to email and add require -->

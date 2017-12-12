@@ -26,7 +26,7 @@ app.post('/api/login', function (req, res) {
             if(req.body.password == '123123') {
               console.log( req.body.gender) 
                 var user ={
-                    name:"Alex Jones"
+                    name:req.body.username
                     , email:req.body.email
                     , password:req.body.password
                     , profilePic:"http://lorempixel.com/500/500/people/"
