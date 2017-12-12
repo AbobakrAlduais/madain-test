@@ -4,10 +4,10 @@ This is a list of recommendations to make this project better
 
 // Please make your recommendations as clear as possible with only a few sentences 
 
-1.
+1.Fix profile UI (index.html lines(42-55))
 
-2.
+2.chang email input type from text to input and make it and the password field required (index.html line(30))
 
-3.
+3.add field ginder to decided what the error message server will return(inde.html lines (37-43), loginctrl.js(6) & server.js line(37,40))
 
 4.
