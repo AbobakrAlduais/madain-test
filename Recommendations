@@ -11,3 +11,5 @@ This is a list of recommendations to make this project better
 3.add field ginder to decided what the error message server will return(inde.html lines (37-43), loginctrl.js(6) & server.js line(37,40))
 
 4.Add usename field(nde.html lines (28-31), loginctrl.js(6) & server.js line(29))
+
+5.Add function to change password
